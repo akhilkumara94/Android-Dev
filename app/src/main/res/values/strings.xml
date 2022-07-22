@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="akhil_intro_message">Hello World!\n My name is Akhil Kumar Ajitha.\n I\'m exhilarated to start Android Programming course and I love gaming.</string>
+    <string name="button_text">Say Hello!</string>
+    <string name="toast_msg">Hello to you too!!!</string>
+</resources>
